@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vmux2
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1712620665
+!i10b 1
+!s100 jGhFjD<^?zgXJ1WcRFh>]2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6Y9EMGKPblinYRTz_N]8c2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dC:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula3/modelsim_mux4
+w1712586507
+8C:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula3/modelsim_mux4/mux2.sv
+FC:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula3/modelsim_mux4/mux2.sv
+!i122 32
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1712620665.000000
+!s107 C:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula3/modelsim_mux4/mux2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula3/modelsim_mux4/mux2.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+vmux4
+R0
+!s110 1712620666
+!i10b 1
+!s100 >bzedK3NUHAah:NN^m_bU0
+R1
+Id:bQIY`OO26G_hEHM`n;A3
+R2
+S1
+R3
+w1712586490
+8C:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula3/modelsim_mux4/mux4.sv
+FC:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula3/modelsim_mux4/mux4.sv
+!i122 33
+L0 1 10
+R4
+r1
+!s85 0
+31
+!s108 1712620666.000000
+!s107 C:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula3/modelsim_mux4/mux4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula3/modelsim_mux4/mux4.sv|
+!i113 1
+R5
+R6
+vmux4_tb_vector
+R0
+!s110 1712620690
+!i10b 1
+!s100 fa]6SnLgAOkB3UWMe_IPG3
+R1
+IaYE[^c[01X8K[o`XHfc5R1
+R2
+S1
+R3
+w1712620526
+8C:\Masters\PCO103ProjetoDeCircuitosIntegradosDigitais\Aula3\modelsim_mux4\mux_4_tb_vector.sv
+FC:\Masters\PCO103ProjetoDeCircuitosIntegradosDigitais\Aula3\modelsim_mux4\mux_4_tb_vector.sv
+!i122 34
+L0 3 35
+R4
+r1
+!s85 0
+31
+!s108 1712620690.000000
+!s107 C:\Masters\PCO103ProjetoDeCircuitosIntegradosDigitais\Aula3\modelsim_mux4\mux_4_tb_vector.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Masters\PCO103ProjetoDeCircuitosIntegradosDigitais\Aula3\modelsim_mux4\mux_4_tb_vector.sv|
+!i113 1
+R5
+R6

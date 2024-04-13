@@ -15,22 +15,23 @@ module mux4_tb_vector;
  
     logic [7:0] i; // variável para indexar o vetorTeste
     logic [3:0] y_esperado;
-    logic [21:0] vetorTeste [3:0]; //esquerda: tamanho da linha, direita: quantos elementos
+    logic [21:0] vetorTeste [15:0]; //esquerda: tamanho da linha, direita: quantos elementos
+    
     initial begin
     $readmemb("vector", vetorTeste);
-    i = 0;
+    i = 'b0;
     end
 
     always begin
         {d0, d1, d2, d3, s, y_esperado} = vetorTeste [i]; #1;
-        begin if (y_esperado !== y)
+        begin if (y_esperado != y)
             $display("Saída incorreta!");
         else
             $$display("Saída correta: y = %b", y);
         end
+        i = i + 1; #1;
     end
-
-    i = 1 + 1; #1;
-
-
+    
+    
+   
 endmodule
