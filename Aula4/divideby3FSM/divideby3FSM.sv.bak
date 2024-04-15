@@ -1,0 +1,2 @@
+module divideby3FSM(input logic clk, reset, output logic y);
+endmodule

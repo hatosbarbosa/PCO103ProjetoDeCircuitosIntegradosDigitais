@@ -1,0 +1,6 @@
+|divideby3FSM
+clk => state~1.DATAIN
+reset => state~3.DATAIN
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+

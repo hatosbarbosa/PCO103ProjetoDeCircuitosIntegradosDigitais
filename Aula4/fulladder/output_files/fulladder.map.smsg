@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at fulladder.sv(6): always construct contains both blocking and non-blocking assignments File: C:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula4/fulladder/fulladder.sv Line: 6
