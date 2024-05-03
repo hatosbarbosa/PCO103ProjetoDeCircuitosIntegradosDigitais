@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula4/4.20
+valu
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1714718122
+!i10b 1
+!s100 @ZD52_O[^O<nCWEOiJfJR3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXT=JNB^VBE_XGXh`e`JkV2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Exercicios/Ex01
+w1714717994
+8alu.sv
+Falu.sv
+!i122 42
+L0 1 31
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1714718122.000000
+!s107 structural_comparer.sv|comparer_tb.sv|alu_tb.sv|alu.sv|
+Z7 !s90 -reportprogress|300|alu.sv|alu_tb.sv|comparer_tb.sv|structural_comparer.sv|
+!i113 1
+Z8 tCvgOpt 0
+valu_tb
+R0
+R1
+!i10b 1
+!s100 z8`>2ZR`FX:QF:S3]6:6<3
+R2
+I;Bf8B7TUKOlLibS<f^XX70
+R3
+S1
+R4
+w1714718097
+8alu_tb.sv
+Falu_tb.sv
+!i122 42
+L0 2 37
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 structural_comparer.sv|comparer_tb.sv|alu_tb.sv|alu.sv|
+R7
+!i113 1
+R8
+vcomparer_tb
+R0
+R1
+!i10b 1
+!s100 o^H:]DlbT6HU`o1TCAI2R2
+R2
+I`]jQl^Pj`?BWoc4eLH3I20
+R3
+S1
+R4
+w1714715165
+8comparer_tb.sv
+Fcomparer_tb.sv
+!i122 42
+L0 2 14
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vstructural_comparer
+R0
+R1
+!i10b 1
+!s100 jaZWJS^?7?YIRzd_PGGSC2
+R2
+I<dgFFY_GToV]lMl0298nc2
+R3
+S1
+R4
+w1714714717
+8structural_comparer.sv
+Fstructural_comparer.sv
+!i122 42
+L0 2 21
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8

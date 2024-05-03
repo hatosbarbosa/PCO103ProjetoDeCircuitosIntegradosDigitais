@@ -1,0 +1,12 @@
+|andN
+a[0] => x[0].DATAIN
+a[1] => x.IN1
+a[2] => x.IN1
+a[3] => x.IN1
+a[4] => x.IN1
+a[5] => x.IN1
+a[6] => x.IN1
+a[7] => x.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
