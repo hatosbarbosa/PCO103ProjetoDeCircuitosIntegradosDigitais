@@ -2,7 +2,7 @@ module alu # (parameter width = 4)
             (input logic signed [width-1:0] a, b,
             input logic [1:0] alu_control,
             output logic signed [width-1:0] result,
-            output logic [4:0] alu_flags);
+            output logic [3:0] alu_flags);
 
 logic [width-1:0] condinvb;
 logic [width:0] sum;
@@ -23,7 +23,7 @@ always_comb begin : alwayscmb
     //Zero:
     alu_flags[2] = (result == 0);
     //Carry:
-    alu_flags[1] = alu_control[1] & sum[width];
+    alu_flags[1] = ~(alu_control[1]) & sum[width];
     //Overflow
     alu_flags[0] = ~(alu_control[1]) & (a[width-1] ^ sum[width-1]) & ~(alu_control[0] ^ a[width-1] ^ b[width-1]); 
 end

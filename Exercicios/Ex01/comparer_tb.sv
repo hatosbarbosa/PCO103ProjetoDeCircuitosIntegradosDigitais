@@ -6,7 +6,7 @@ module comparer_tb();
     structural_comparer dut(Z, C, HS, LS, HI, LO);
 
     initial begin
-        $monitor("Time=%t Z=%b C=%b | HS=%b LS=%b HI=%b LO=%b", $time, Z, C, HS, LS, HI, LO);
+        $display("Time=%t Z=%b C=%b | HS=%b LS=%b HI=%b LO=%b", $time, Z, C, HS, LS, HI, LO);
         Z = 0; C = 0; #10;
         Z = 0; C = 1; #10;
         Z = 1; C = 0; #10;

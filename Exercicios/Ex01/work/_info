@@ -11,49 +11,97 @@ cModel Technology
 dC:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Aula4/4.20
 valu
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z1 !s110 1714718122
+Z1 !s110 1714782554
 !i10b 1
-!s100 @ZD52_O[^O<nCWEOiJfJR3
+!s100 cU;DPd2FchAo4kCTUU_gf2
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
-IXT=JNB^VBE_XGXh`e`JkV2
+I0lS]]ZUeOKGN^kJdY_0c50
 Z3 VDg1SIo80bB@j0V0VzS_@n1
 S1
 Z4 dC:/Masters/PCO103ProjetoDeCircuitosIntegradosDigitais/Exercicios/Ex01
-w1714717994
+w1714780982
 8alu.sv
 Falu.sv
-!i122 42
+!i122 154
 L0 1 31
 Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1714718122.000000
-!s107 structural_comparer.sv|comparer_tb.sv|alu_tb.sv|alu.sv|
-Z7 !s90 -reportprogress|300|alu.sv|alu_tb.sv|comparer_tb.sv|structural_comparer.sv|
+Z6 !s108 1714782554.000000
+!s107 structural_comparer.sv|comparer_tb.sv|alu_tb.sv|alu_enhanced_tb.sv|alu_enhanced.sv|alu.sv|
+Z7 !s90 -reportprogress|300|alu.sv|alu_enhanced.sv|alu_enhanced_tb.sv|alu_tb.sv|comparer_tb.sv|structural_comparer.sv|
 !i113 1
 Z8 tCvgOpt 0
-valu_tb
+valu_enhanced
 R0
 R1
 !i10b 1
-!s100 z8`>2ZR`FX:QF:S3]6:6<3
+!s100 KAlJWCa5S`4hVHXIE3L5j1
 R2
-I;Bf8B7TUKOlLibS<f^XX70
+IYDDTJmF[EOE?UA]bHmV6K2
 R3
 S1
 R4
-w1714718097
-8alu_tb.sv
-Falu_tb.sv
-!i122 42
-L0 2 37
+w1714780992
+8alu_enhanced.sv
+Falu_enhanced.sv
+!i122 154
+L0 1 35
 R5
 r1
 !s85 0
 31
 R6
-Z9 !s107 structural_comparer.sv|comparer_tb.sv|alu_tb.sv|alu.sv|
+Z9 !s107 structural_comparer.sv|comparer_tb.sv|alu_tb.sv|alu_enhanced_tb.sv|alu_enhanced.sv|alu.sv|
+R7
+!i113 1
+R8
+valu_enhanced_tb
+R0
+R1
+!i10b 1
+!s100 Y9P4In@g[i6aKWGF6T:@E1
+R2
+I3[Vz04=H8:BS>`6^9ln><0
+R3
+S1
+R4
+w1714779657
+8alu_enhanced_tb.sv
+Falu_enhanced_tb.sv
+!i122 154
+L0 2 38
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+valu_tb
+R0
+R1
+!i10b 1
+!s100 MTdFhm6ZLS0H76V2DkLNW3
+R2
+I:PEnQYQkF>UR43Xjg;c_L1
+R3
+S1
+R4
+w1714780152
+8alu_tb.sv
+Falu_tb.sv
+!i122 154
+L0 2 48
+R5
+r1
+!s85 0
+31
+R6
+R9
 R7
 !i113 1
 R8
@@ -61,16 +109,16 @@ vcomparer_tb
 R0
 R1
 !i10b 1
-!s100 o^H:]DlbT6HU`o1TCAI2R2
+!s100 LLnfl;E<b_F]H^aW_[Yb@0
 R2
-I`]jQl^Pj`?BWoc4eLH3I20
+I6^m1<2>D<?T`b2zCECac30
 R3
 S1
 R4
-w1714715165
+w1714777839
 8comparer_tb.sv
 Fcomparer_tb.sv
-!i122 42
+!i122 154
 L0 2 14
 R5
 r1
@@ -85,17 +133,17 @@ vstructural_comparer
 R0
 R1
 !i10b 1
-!s100 jaZWJS^?7?YIRzd_PGGSC2
+!s100 gZdTC>]h0GBJPmSnN8S4Z1
 R2
-I<dgFFY_GToV]lMl0298nc2
+I@Bhg;Inm]VLJ6Om@?^1YK3
 R3
 S1
 R4
-w1714714717
+w1714781301
 8structural_comparer.sv
 Fstructural_comparer.sv
-!i122 42
-L0 2 21
+!i122 154
+L0 2 17
 R5
 r1
 !s85 0
